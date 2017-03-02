@@ -1,7 +1,0 @@
-5.4.1f1:2.3.0.0
-StandaloneOSXIntel
-C:/Institutions/Gre/Apps/Unity541f1/Editor/Data/Managed/UnityEngine.dll
-C:/Institutions/Gre/Apps/Unity541f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-C:/Institutions/Gre/Apps/Unity541f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-C:/Institutions/Gre/Apps/Unity541f1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
-C:/Institutions/Gre/Apps/Unity541f1/Editor/Data/Managed/UnityEditor.dll
