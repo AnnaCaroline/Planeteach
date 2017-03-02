@@ -79,10 +79,17 @@
     <Compile Include="Assets\SAMPLE UI\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\Scripts\Constellation\ScrollUV.cs" />
     <Compile Include="Assets\Scripts\Constellation\TelescopeMov.cs" />
+    <Compile Include="Assets\Scripts\Quiz\nextButton.cs" />
+    <Compile Include="Assets\Scripts\Quiz\text1.cs" />
+    <Compile Include="Assets\Scripts\Quiz\text2.cs" />
+    <Compile Include="Assets\Scripts\Quiz\text3.cs" />
+    <Compile Include="Assets\Scripts\Quiz\text4.cs" />
+    <Compile Include="Assets\Scripts\Quiz\textControl.cs" />
     <Compile Include="Assets\Scripts\SolarSystem\Orbit.cs" />
     <Compile Include="Assets\Scripts\SolarSystem\Sun.cs" />
     <Compile Include="Assets\Scripts\loadScene.cs" />
     <Compile Include="Assets\Scripts\quitOnClick.cs" />
+    <Compile Include="Assets\menuMusicAdjust.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SAMPLE UI\Fonts\Jupiter\LICENSE.txt" />

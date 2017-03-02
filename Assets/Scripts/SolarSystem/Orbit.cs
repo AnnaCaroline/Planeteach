@@ -7,6 +7,7 @@ public class Orbit : MonoBehaviour {
     public GameObject myPlanet;
     public float speed;
     public float mySpeed;
+	public GameObject earth;
 
 
 	// Use this for initialization
@@ -30,4 +31,9 @@ public class Orbit : MonoBehaviour {
 
         transform.RotateAround(planet.transform.position, Vector3.up, speed * Time.deltaTime);
     }
+
+	void OnMouseDown()
+	{
+		earth.gameObject.setActive (true);
+	}
 }
